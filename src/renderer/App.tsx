@@ -21,7 +21,7 @@ const Hello = () => {
       <div onClick={handleGoToTestClick} aria-hidden="true">
         go to test page
       </div>
-      <div className="Hello">hello electron </div>
+      <div className="Hello">
     </div>
   );
 };
